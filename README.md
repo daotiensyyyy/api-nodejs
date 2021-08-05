@@ -1,5 +1,5 @@
 This project was created with Create React App, using the NodeJs Express and Mongodb.
-### 14/07/2021 - 05/08/2021
+
 In the project directory, you can run:
 
 ### `yarn start`
