@@ -16,6 +16,6 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 ### Config before run on localhost
-change url db in config/db.js
-change "node" to "nodemon" in package.json
+change url db in config/db.js. <br />
+change "node" to "nodemon" in package.json. <br />
 
