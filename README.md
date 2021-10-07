@@ -17,5 +17,5 @@ Your app is ready to be deployed!
 
 ### Config before run on localhost
 change url db in config/db.js. <br />
-change "node" to "nodemon" in package.json. <br />
+
 
